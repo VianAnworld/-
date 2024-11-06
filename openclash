@@ -85,7 +85,7 @@ config openclash 'config'
 	option store_fakeip '1'
 	option custom_fakeip_filter '0'
 	option enable_unified_delay '1'
-	option keep_alive_interval '1800'
+	option keep_alive_interval '3600'
 	option en_mode 'fake-ip'
 	option enable_udp_proxy '1'
 
