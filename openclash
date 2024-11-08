@@ -88,7 +88,7 @@ config openclash 'config'
 	option custom_fakeip_filter_mode 'blacklist'
 	option enable_tcp_concurrent '1'
 	option enable_unified_delay '1'
-	option keep_alive_interval '3600'
+	option keep_alive_interval '1800'
 
 config dns_servers
 	option type 'udp'
