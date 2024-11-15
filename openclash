@@ -68,6 +68,8 @@ config openclash 'config'
 	option geosite_custom_url 'https://github.com/DustinWin/ruleset_geodata/releases/download/clash/geosite-all-lite.dat'
 	option enable_tcp_concurrent '1'
 	option enable_unified_delay '1'
+	option enable_meta_sniffer '1'
+	option enable_meta_sniffer_pure_ip '1'
 
 config dns_servers
 	option type 'udp'
