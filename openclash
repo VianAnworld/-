@@ -79,7 +79,7 @@ config openclash 'config'
 	option enable_tcp_concurrent '1'
 	option enable_unified_delay '1'
 	list lan_ac_white_ips '192.168.1.131'
-	list lan_ac_white_ips '192.168.1.194'
+	list lan_ac_white_ips '192.168.1.189'
 	list lan_ac_white_ips '192.168.1.224'
 
 config dns_servers
